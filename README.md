@@ -55,11 +55,11 @@ Shows every detail:
 ## 📂 Project Structure
 
 📁 ipv4-dfa-visualizer
-#├── index.html # Main UI + DFA SVG diagram
-#├── style.css # Animations, transitions, UI styling
-#├── script.js # Full DFA logic + animation controls
-#├── README.md # Project documentation
-#└── assets/ # (Optional) Screenshots, diagrams
+# ├── index.html # Main UI + DFA SVG diagram
+# ├── style.css # Animations, transitions, UI styling
+# ├── script.js # Full DFA logic + animation controls
+# ├── README.md # Project documentation
+# └── assets/ # (Optional) Screenshots, diagrams
 
 
 ---
@@ -127,5 +127,6 @@ Feel free to fork this project and build your own automata visualizers!
 
 ## 💡 Acknowledgements
 This visualization was created as part of an academic exploration of **Automata Theory**, showcasing how conceptual DFAs can be brought to life through modern web technologies.
+
 
 
